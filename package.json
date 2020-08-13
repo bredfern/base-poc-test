@@ -1,0 +1,11 @@
+{
+  "name": "base-poc-test",
+  "version": "1.0.0",
+  "description": "This is the GitHub repo for the FirebaseRTC codelab. This will teach you how  to use Firebase Cloud Firestore for signalling in a WebRTC video chat application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
